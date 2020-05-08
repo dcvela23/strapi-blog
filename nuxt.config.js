@@ -70,7 +70,7 @@ export default {
   apollo: {  
     clientConfigs: {
       default: {
-        httpEndpoint: 'https://stormy-tor-75451.herokuapp.com/' || "http://localhost:1337/graphql"
+        httpEndpoint: 'https://stormy-tor-75451.herokuapp.com/graphql' || "http://localhost:1337/graphql"
       }
     }
   },
