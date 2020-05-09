@@ -11,7 +11,7 @@ export default {
   /*
   ** Mode
   */
-  mode: 'universal',
+  mode: 'spa',
   /*
   ** Headers of the page
   */
