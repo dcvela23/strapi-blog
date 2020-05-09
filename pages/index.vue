@@ -2,10 +2,11 @@
   #home
     // sb-hero
     .articles
+      p home
       .article(v-for='article in articles')
         h1 {{ article.title }}
         p {{ article.content }}
-    // sb-about
+    sb-about
 </template>
 
 <script>
