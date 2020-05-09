@@ -6,7 +6,7 @@ export default {
   ** Environments
   */
   env: {  
-    strapiBaseUri: process.env.API_URL || "https://stormy-tor-75451.herokuapp.com"
+    strapiBaseUri: process.env.API_URL || "http://localhost:1337"
   },
   /*
   ** Mode
